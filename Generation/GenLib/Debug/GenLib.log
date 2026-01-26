@@ -1,0 +1,23 @@
+﻿Сборка начата 12/10/2025 14:27:02.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\Admin\Desktop\SNK-2025Copy\Generation\GenLib\GenLib.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Создание "Debug\GenLib.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "Debug\GenLib.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"C:\Users\Admin\Desktop\SNK-2025Copy\Generation\Debug\GenLib.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt GenLib.cpp
+         GenLib.cpp
+       Lib:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\bin\HostX86\x86\Lib.exe /OUT:"C:\Users\Admin\Desktop\SNK-2025Copy\Generation\Debug\GenLib.lib" /NOLOGO /MACHINE:X86 Debug\GenLib.obj
+         GenLib.vcxproj -> C:\Users\Admin\Desktop\SNK-2025Copy\Generation\Debug\GenLib.lib
+       FinalizeBuildStatus:
+         Файл "Debug\GenLib.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\GenLib.tlog\GenLib.lastbuildstate".
+     1>Сборка проекта "C:\Users\Admin\Desktop\SNK-2025Copy\Generation\GenLib\GenLib.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.93

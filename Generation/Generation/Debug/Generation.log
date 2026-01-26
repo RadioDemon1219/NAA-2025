@@ -1,0 +1,27 @@
+﻿Сборка начата 12/10/2025 16:30:44.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\Admin\Desktop\SNK-2025Copy\Generation\Generation\Generation.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Создание "Debug\Generation.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "Debug\Generation.tlog\unsuccessfulbuild".
+       _MASM:
+         Assembling Gen.asm...
+         cmd.exe /C "C:\Users\Admin\AppData\Local\Temp\tmp49183d7e197a49d3b13a64c46619003e.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\Gen.obj" /W3 /errorReport:prompt  /TaGen.asm
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Admin\Desktop\SNK-2025Copy\Generation\Debug\Generation.exe" /INCREMENTAL /ILK:"Debug\Generation.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Admin\Desktop\SNK-2025Copy\Generation\Debug\Generation.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Admin\Desktop\SNK-2025Copy\Generation\Debug\Generation.lib" /MACHINE:X86 Debug\stdafx.obj
+         Debug\Gen.obj
+         Generation.vcxproj -> C:\Users\Admin\Desktop\SNK-2025Copy\Generation\Debug\Generation.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Generation.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Generation.tlog\Generation.lastbuildstate".
+     1>Сборка проекта "C:\Users\Admin\Desktop\SNK-2025Copy\Generation\Generation\Generation.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.11
